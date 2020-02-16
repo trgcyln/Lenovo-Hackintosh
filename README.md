@@ -9,8 +9,8 @@
 
 ##  Screenshot
 
-![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/Screenshot.png)
-![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/Screenshot-1.png)
+![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/master/Screenshot.png)
+![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/master/Screenshot-1.png)
 
 ## Important Note
 If you've got exactly same Laptop model, you can just simply use the EFI zip posted above and if you have even a slightly different model this isn't for you.

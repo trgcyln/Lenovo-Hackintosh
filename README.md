@@ -11,6 +11,7 @@
 
 ![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/master/Screenshot.png)
 ![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/master/Screenshot-2.png)
-
+## Not Working
+SD Card Reader
 ## Important Note
 If you've got exactly same Laptop model, you can just simply use the EFI zip posted above.

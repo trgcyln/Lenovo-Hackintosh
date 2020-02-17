@@ -12,6 +12,21 @@
 ![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/master/Screenshot.png)
 ![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/master/Screenshot-2.png)
 
+## BIOS Settings (Latest BIOS from Offical Lenovo)
+Wireless LAN [Enabled]
+Graphic Device [Discrete]
+Power Beep [Disabled]
+Intel Virtualization Technology [Enabled]
+BIOS Back Flash [Enabled]
+Hotkey Mode [Disabled]
+Intel Platform Trust Technology [Enabled]
+Intel SGX [Software Controlled]
+Secure Boot [Disabled]
+Boot Mode [UEFI]
+Fast Boot [Disabled]
+USB Boot [Enabled]
+PXE Boot to LAN [Enabled]
+IPV4 PXE First [Enabled]
 
 ## Installation
 1. Install Clover to your macOS Drive

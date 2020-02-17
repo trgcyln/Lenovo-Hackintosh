@@ -15,9 +15,20 @@
 ## BIOS Settings (Latest BIOS from Offical Lenovo)
 
 ```
-manifest.json
-common/
-chrome/
+Wireless LAN [Enabled]
+Graphic Device [Discrete]
+Power Beep [Disabled]
+Intel Virtualization Technology [Enabled]
+BIOS Back Flash [Enabled]
+Hotkey Mode [Disabled]
+Intel Platform Trust Technology [Enabled]
+Intel SGX [Software Controlled]
+Secure Boot [Disabled]
+Boot Mode [UEFI]
+Fast Boot [Disabled]
+USB Boot [Enabled]
+PXE Boot to LAN [Enabled]
+IPV4 PXE First [Enabled]
 ```
 ## Installation
 1. Install Clover to your macOS Drive

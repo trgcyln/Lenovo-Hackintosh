@@ -14,4 +14,4 @@
 ## Not Working
 SD Card Reader
 ## Important Note
-If you've got exactly same Laptop model, you can just simply use the EFI zip posted above.
+If you've got exactly same Laptop model, you can just simply use the EFI folder above.

@@ -28,8 +28,8 @@
 6. Brightness
 
 ## Not Working
-1. SD Card Reader
-2. Wireless Card
+1. Wireless Card
+2. SD Card Reader
 
 ## Solution for Wireless & SD Card
 1. Asus USB-N10 NANO

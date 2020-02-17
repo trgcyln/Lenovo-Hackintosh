@@ -5,7 +5,7 @@
 ##### Hackintosh Clover Configuration for Ideapad 510-15IKB
 
 ## Specifications
-2.71 GHz Intel Core i5 7200U , Intel HD Graphics 620, 8 GB 2133 MHz DDR4 Memory
+2.71 GHz Intel Core i5 7200U , Intel HD Graphics 620, 8 GB 2133 MHz DDR4 Memory, Kingston SSDNow UV500 480GB
 
 ##  Screenshot
 

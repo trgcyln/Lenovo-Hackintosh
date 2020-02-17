@@ -31,8 +31,8 @@
 1. Wireless Card
 2. SD Card Reader
 
-## Solution for Wireless & SD Card
-1. Asus USB-N10 NANO
+## Solution for Wireless Card & SD Card
+1. [Asus USB-N10 NANO](https://www.asus.com/Networking/USBN10_NANO/)
 2. BLUEENDLESS Type C to 3*USB 3.0/SD/TF Card Reader + USB Type C to USB 3.0 Converter
 
 ## Important Note

@@ -1,0 +1,1 @@
+into definitionblock code_regex External\s+\(BNUM replace_matched begin //External\ \(BNUM end;

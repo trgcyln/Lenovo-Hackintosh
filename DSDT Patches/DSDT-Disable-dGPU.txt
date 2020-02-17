@@ -1,0 +1,12 @@
+#DSDT
+#Lenovo Ideapad 510-15IKB
+#Disable discrete GPU
+
+into method label _REG parent_hid PNP0C09 insert
+begin
+//added to turn nvidia/radeon off\n
+If (LAnd(LEqual(Arg0,3),LEqual(Arg1,1)))\n
+{\n
+    Store (Zero, \_SB.PCI0.LPCB.EC0.GATY)\n
+}\n
+end;

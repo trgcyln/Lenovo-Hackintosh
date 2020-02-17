@@ -13,21 +13,12 @@
 ![alt text](https://raw.githubusercontent.com/trgcyln/Lenovo-Hackintosh/master/Screenshot-2.png)
 
 ## BIOS Settings (Latest BIOS from Offical Lenovo)
-Wireless LAN [Enabled]
-Graphic Device [Discrete]
-Power Beep [Disabled]
-Intel Virtualization Technology [Enabled]
-BIOS Back Flash [Enabled]
-Hotkey Mode [Disabled]
-Intel Platform Trust Technology [Enabled]
-Intel SGX [Software Controlled]
-Secure Boot [Disabled]
-Boot Mode [UEFI]
-Fast Boot [Disabled]
-USB Boot [Enabled]
-PXE Boot to LAN [Enabled]
-IPV4 PXE First [Enabled]
 
+```
+manifest.json
+common/
+chrome/
+```
 ## Installation
 1. Install Clover to your macOS Drive
 2. Install [DSDT Patches](https://github.com/trgcyln/Lenovo-Hackintosh/tree/master/DSDT_Patches) using MaciASL

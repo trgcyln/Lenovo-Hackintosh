@@ -48,7 +48,7 @@ IPV4 PXE First [Enabled]
 1. Wireless Card
 2. SD Card Reader
 
-## Solution for Wireless Card & SD Card
+## Solution for Wireless Card & SD Card Reader
 1. [Asus USB-N10 NANO](https://www.asus.com/Networking/USBN10_NANO/)
 2. [BLUEENDLESS Type C to 3*USB 3.0/SD/TF Card Reader](https://tr.banggood.com/Blueendless-HC401-9-in-1-Type-C-to-3-Port-USB-3_0-HDMI-SD-TF-Card-Reader-Data-Hub-p-1555789.html?cur_warehouse=CN) + USB Type C to USB 3.0 Converter
 

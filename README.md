@@ -4,8 +4,10 @@
 # Catalina 10.15.3
 ##### Hackintosh Clover Configuration for Ideapad 510-15IKB
 
+### For OpenCore instructions and EFI, [please see the OpenCore directory](OpenCore/README.md)
+
 ## Specifications
-Intel Core i5 7200U , Intel HD Graphics 620, 8 GB 2133 MHz DDR4 Memory, Kingston SSDNow UV500 480GB
+Intel Core i5 7200U, Intel HD Graphics 620, 8 GB 2133 MHz DDR4 Memory, Kingston SSDNow UV500 480GB
 
 ##  Screenshot
 
